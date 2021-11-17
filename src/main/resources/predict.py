@@ -13,7 +13,7 @@ def index(hour,room):
 
     clf.fit(x, y)
 
-    res = clf.predict([[int(room),int(hour)]]);
+    res = clf.predict([[int(room),int(hour)]])
 
 
     return str(res[0])

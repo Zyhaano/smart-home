@@ -5,8 +5,8 @@ First run the python program to provide prediction methods
 
 cd src/main/resource
 
-python3 predict.py
+python3 calc_predict.py
 
-Then Open the SmartHome class and run the main method
+Then run application in idea or package program
 
 ```
